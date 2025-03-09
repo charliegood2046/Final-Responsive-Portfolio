@@ -22,7 +22,7 @@ h6 {
 }
 
 h1 {
-  font-size: 96px;
+  font-size: 40px;
   line-height: 1.5;
 }
 
@@ -64,8 +64,8 @@ p {
 }
 
 .content h1 {
-  font-size: 64px;
-  line-height: 80px;
+  font-size: 40px;
+  line-height: 60px;
   font-family: var(--heading-font-family);
 }
 
@@ -172,11 +172,11 @@ footer .contact-box p {
 
 @media (max-width: 900px) {
   h1 {
-    font-size: 1rem;
+    font-size: 24px;
   }
 
   h2 {
-    font-size: 1rem;
+    font-size: 18px;
   }
 
   h3 {

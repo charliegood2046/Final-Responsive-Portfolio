@@ -145,7 +145,7 @@ footer .email-link:hover {
 }
 
 footer .social-links a {
-  margin: 20px 0;
+  margin: 20px 10px;
   color: var(--branding-color);
   background-color: var(--secondary-color);
   padding: 10px 14px;

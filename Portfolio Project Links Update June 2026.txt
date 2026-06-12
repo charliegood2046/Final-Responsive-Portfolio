@@ -1,0 +1,8 @@
+12 June 2026:
+The route was updated so it should be:
+Dictionary App:
+https://www.shecodes.io/projects/2480984
+Weather App:
+https://www.shecodes.io/projects/2473995
+Poem Generator:
+https://www.shecodes.io/projects/2431405
